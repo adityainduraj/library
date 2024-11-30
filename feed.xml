@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>My Library</title>
+  <id>https://adityainduraj.github.io/library/feed.xml</id>
+  <updated>2024-11-30T12:00:00Z</updated>
+  <author>
+    <name>Aditya Induraj</name>
+  </author>
+  <entry>
+    <title>Book 1</title>
+    <id>https://yourusername.github.io/ebooks/fiction/book1.epub</id>
+    <updated>2024-11-30T12:00:00Z</updated>
+    <link rel="alternate" href="https://yourusername.github.io/ebooks/fiction/book1.epub" type="application/epub+zip"/>
+    <summary>A brief description of Book 1.</summary>
+  </entry>
+  <!-- Repeat <entry> for each eBook -->
+</feed>
+
