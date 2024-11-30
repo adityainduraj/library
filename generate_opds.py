@@ -2,7 +2,7 @@ import os
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
-BASE_URL = "https://adityainduraj.github.io/ebooks-catalog"  # Replace with your GitHub Pages URL
+BASE_URL = "https://adityainduraj.github.io/library"  # Replace with your GitHub Pages URL
 OUTPUT_FILE = "feed.xml"
 
 def generate_opds(directory):
